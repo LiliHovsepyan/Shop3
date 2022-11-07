@@ -1,0 +1,32 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "color": "white",
+      "year": "1990",
+      "price": 2000,
+      "image": ""
+    },
+    {
+      "id": 2,
+      "color": "red",
+      "year": "1991",
+      "price": 2200,
+      "image": ""
+    },
+    {
+      "id": 3,
+      "color": "green",
+      "year": "1992",
+      "price": 2500,
+      "image": ""
+    },
+    {
+      "id": 4,
+      "color": "blue",
+      "year": "1993",
+      "price": 2800,
+      "image": ""
+    }
+  ]
+}
